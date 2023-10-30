@@ -1,0 +1,16 @@
+D:\C#\Garaj\B-E-task2\B-E-task2\B-E-task2\bin\Debug\net5.0\B-E-task2.exe
+D:\C#\Garaj\B-E-task2\B-E-task2\B-E-task2\bin\Debug\net5.0\B-E-task2.deps.json
+D:\C#\Garaj\B-E-task2\B-E-task2\B-E-task2\bin\Debug\net5.0\B-E-task2.runtimeconfig.json
+D:\C#\Garaj\B-E-task2\B-E-task2\B-E-task2\bin\Debug\net5.0\B-E-task2.runtimeconfig.dev.json
+D:\C#\Garaj\B-E-task2\B-E-task2\B-E-task2\bin\Debug\net5.0\B-E-task2.dll
+D:\C#\Garaj\B-E-task2\B-E-task2\B-E-task2\bin\Debug\net5.0\ref\B-E-task2.dll
+D:\C#\Garaj\B-E-task2\B-E-task2\B-E-task2\bin\Debug\net5.0\B-E-task2.pdb
+D:\C#\Garaj\B-E-task2\B-E-task2\B-E-task2\obj\Debug\net5.0\B-E-task2.csproj.AssemblyReference.cache
+D:\C#\Garaj\B-E-task2\B-E-task2\B-E-task2\obj\Debug\net5.0\B-E-task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Garaj\B-E-task2\B-E-task2\B-E-task2\obj\Debug\net5.0\B-E-task2.AssemblyInfoInputs.cache
+D:\C#\Garaj\B-E-task2\B-E-task2\B-E-task2\obj\Debug\net5.0\B-E-task2.AssemblyInfo.cs
+D:\C#\Garaj\B-E-task2\B-E-task2\B-E-task2\obj\Debug\net5.0\B-E-task2.csproj.CoreCompileInputs.cache
+D:\C#\Garaj\B-E-task2\B-E-task2\B-E-task2\obj\Debug\net5.0\B-E-task2.dll
+D:\C#\Garaj\B-E-task2\B-E-task2\B-E-task2\obj\Debug\net5.0\ref\B-E-task2.dll
+D:\C#\Garaj\B-E-task2\B-E-task2\B-E-task2\obj\Debug\net5.0\B-E-task2.pdb
+D:\C#\Garaj\B-E-task2\B-E-task2\B-E-task2\obj\Debug\net5.0\B-E-task2.genruntimeconfig.cache
